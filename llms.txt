@@ -1,0 +1,14 @@
+# FreshBite Pets
+
+> Mobile, natural, non-invasive preventive oral care for dogs and cats in the Greater Dallas-Fort Worth area, Texas. Not grooming, not a medical procedure, and never a replacement for veterinary care. No anesthesia required.
+
+- Business: FreshBite Pets Natural Oral Care LLC
+- Founder: Daiana de Paula
+- Service area: Greater DFW, TX (mobile, at the client's home)
+- Contact: freshbitepets@gmail.com, +1 (833) 944-4486
+
+## Pages
+- [Home](https://www.freshbitepets.com/): overview, process, safety standards, reviews, booking
+- [Services](https://www.freshbitepets.com/services): plans by pet size (Small, Medium, Max, Ultra, Cat) and what every visit includes
+- [About Us](https://www.freshbitepets.com/about): founder story, mission and values
+- [Contact](https://www.freshbitepets.com/contact): book a visit, phone, email and booking form
