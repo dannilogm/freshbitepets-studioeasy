@@ -4,9 +4,11 @@
   "trailingSlash": false,
   "redirects": [
     { "source": "/index.html", "destination": "/", "permanent": true },
-    { "source": "/:page(services|about|contact|privacy-policy).html", "destination": "/:page", "permanent": true }
+    { "source": "/about", "destination": "/our-story", "permanent": true },
+    { "source": "/about.html", "destination": "/our-story", "permanent": true },
+    { "source": "/:page(services|our-method|our-story|reviews|contact|privacy-policy).html", "destination": "/:page", "permanent": true }
   ],
   "rewrites": [
-    { "source": "/:page(services|about|contact|privacy-policy)", "destination": "/:page/index.html" }
+    { "source": "/:page(services|our-method|our-story|reviews|contact|privacy-policy)", "destination": "/:page/index.html" }
   ]
 }

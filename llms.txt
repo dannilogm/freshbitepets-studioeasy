@@ -1,14 +1,18 @@
 # FreshBite Pets
 
-> Mobile, natural, non-invasive preventive oral care for dogs and cats in the Greater Dallas-Fort Worth area, Texas. Not grooming, not a medical procedure, and never a replacement for veterinary care. No anesthesia required.
+> Mobile, natural, non-invasive preventive oral care for dogs and cats in the Greater Dallas-Fort Worth area, Texas. Not grooming, not a medical procedure, and never a replacement for veterinary care. No anesthesia or sedation. Care focuses on visible tooth surfaces above the gumline.
 
 - Business: FreshBite Pets Natural Oral Care LLC
 - Founder: Daiana de Paula
 - Service area: Greater DFW, TX (mobile, at the client's home)
-- Contact: freshbitepets@gmail.com, +1 (833) 944-4486
+- Visit length: 60 to 90 minutes per pet; reminder every 6 months
+- Contact: freshbitepets@gmail.com, +1 (833) 944-4486 (call or text)
+- Social: instagram.com/freshbitepets, facebook.com/freshbitepets, tiktok.com/@fresh.bite.pets
 
 ## Pages
-- [Home](https://www.freshbitepets.com/): overview, process, safety standards, reviews, booking
-- [Services](https://www.freshbitepets.com/services): plans by pet size (Small, Medium, Max, Ultra, Cat) and what every visit includes
-- [About Us](https://www.freshbitepets.com/about): founder story, mission and values
-- [Contact](https://www.freshbitepets.com/contact): book a visit, phone, email and booking form
+- [Home](https://www.freshbitepets.com/): overview, benefits, method summary, plans and reviews
+- [Our Method](https://www.freshbitepets.com/our-method): the 6 steps of the FreshBite Method, who it is for, limits of the service and FAQ
+- [Services](https://www.freshbitepets.com/services): plans by pet size (Small, Medium, Max, Ultra, Cat), what every visit includes and family plans
+- [Our Story](https://www.freshbitepets.com/our-story): how founder Daiana de Paula and her Chihuahua Poli inspired the FreshBite Method
+- [Reviews](https://www.freshbitepets.com/reviews): Google reviews and real before-and-after photos
+- [Contact](https://www.freshbitepets.com/contact): online booking, call, text, email and social media
